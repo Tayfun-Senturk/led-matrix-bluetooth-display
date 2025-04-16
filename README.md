@@ -14,7 +14,6 @@ A microcontroller-based system that displays animations and scrolling text on an
 - Matrix clearing, brightness control, and directional effects  
 - Fully modular animation system
 
----
 
 ## 🛠️ Tech Stack
 
@@ -24,12 +23,21 @@ A microcontroller-based system that displays animations and scrolling text on an
 - **Unity (planned/app side)** for mobile animation selection interface  
 - **8x32 LED Matrix** (4 daisy-chained 8x8 modules)
 
-  
+
 ## 🔧 Hardware Requirements
 
 - ESP32 Dev Board  
 - 4 x 8x8 LED Matrix (MAX7219-based)  
 - Breadboard, jumper wires  
 - Optional: Bluetooth-enabled phone (for mobile interface)
+
+
+## 🎞️ Demo Video
+
+<p align="center">
+  <a href="https://vimeo.com/1027008321" target="_blank">
+    <img src="https://img.shields.io/badge/Watch-Demo%20on%20Vimeo-blue?logo=vimeo" alt="Watch demo on Vimeo" />
+  </a>
+</p>
 
 ---
